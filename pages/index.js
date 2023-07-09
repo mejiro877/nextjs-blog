@@ -28,13 +28,14 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
+      <h2 className={utilStyle.headingMd}>📝プロフィール</h2>
         <p>
           私はWebエンジニアです/今はReactやTypeScriptを勉強中です/一番使用歴が長いのはJavaです
         </p>
       </section>
 
       <section>
-        <h2 className={utilStyle.headingMd}>📝エンジニアのブログ</h2>
+        <h2 className={utilStyle.headingMd}>💬エンジニアのブログ</h2>
         <div className={styles.grid}>
           {allPostsData.map(({id, title, date, thumbnail}) => (
             <article key={id}>
