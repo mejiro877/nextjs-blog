@@ -1,6 +1,6 @@
 # NextJS ブログ
 
-![2023-07-11_17h49_37](https://github.com/mejiro877/nextjs-blog/assets/30212292/aab264f4-0990-4b37-ab42-60ba853558b0)
+![2023-07-11_21h48_31](https://github.com/mejiro877/nextjs-blog/assets/30212292/6a4caa0a-0aa2-495c-b2d1-c28b9747a64a)
 
 ## サービス概要
 
